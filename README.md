@@ -2,7 +2,7 @@
 
 An interactive, ML-powered web application that estimates a patient's cardiovascular disease risk from 11 clinical biomarkers — built end-to-end from data preprocessing and model training to a production-style Streamlit dashboard.
 
-**🔗 Live Demo:** _[add your deployed Streamlit Cloud link here]_
+
 **🎥 Demo Video:** [Watch on LinkedIn](https://lnkd.in/p/dBfFFkty)
 
 ---
